@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/NavName1" />
+
+    <item
+        android:id="@+id/navigation_update_book"
+        android:icon="@drawable/ic_turned"
+        android:title="@string/NavName2" />
+
+    <item
+        android:id="@+id/navigation_admin"
+        android:icon="@drawable/ic_https"
+        android:title="@string/NavName3" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/ic_info"
+        android:title="@string/NavName4" />
+
+
+
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1024161160263",
+    "firebase_url": "https://bookedo-44c48.firebaseio.com",
+    "project_id": "bookedo-44c48",
+    "storage_bucket": "bookedo-44c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024161160263:android:4ba531b852dd2386",
+        "android_client_info": {
+          "package_name": "com.example.jemmett.bookedo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024161160263-6dpqbqn7gp8qm4r9t6960fi5558daqok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jemmett.bookedo",
+            "certificate_hash": "5f3774b31a6e7731500405dfc4764027abb7747c"
+          }
+        },
+        {
+          "client_id": "1024161160263-urceff83beunn61qi7gkok5o58pv9dha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FdeIL8tvF_msitYmjTk0l2OKYEfCFkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024161160263-urceff83beunn61qi7gkok5o58pv9dha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

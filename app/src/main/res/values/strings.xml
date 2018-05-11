@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bookedo</string>
+
+
+    <string name="NavName1">Home</string>
+    <string name="NavName2">Books</string>
+    <string name="NavName3">Admin</string>
+    <string name="NavName4">Help</string>
+    <string name="NavName5"></string>
+
+
+
+</resources>
